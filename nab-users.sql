@@ -1,1 +1,1 @@
- select top 10 username from dbc.usersv;
+ select top 9 username from dbc.usersv;
