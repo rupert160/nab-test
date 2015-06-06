@@ -1,5 +1,6 @@
 #!/bin/bash
 bteq <<EOF
+
 .LOGON td15/dbc,dbc;
 ` 
 for filename in ~/projects/nab/git/sql/*.sql
